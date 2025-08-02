@@ -1,0 +1,6 @@
+@RESTful_Mongo_HostAddress = http://localhost:5133
+
+GET {{RESTful_Mongo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

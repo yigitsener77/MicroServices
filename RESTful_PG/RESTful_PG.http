@@ -1,0 +1,6 @@
+@RESTful_PG_HostAddress = http://localhost:5288
+
+GET {{RESTful_PG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

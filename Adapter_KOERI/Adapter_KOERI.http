@@ -1,0 +1,6 @@
+@Adapter_KOERI_HostAddress = http://localhost:5062
+
+GET {{Adapter_KOERI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
